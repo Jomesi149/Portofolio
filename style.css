@@ -242,7 +242,6 @@ body::before {
 .hero-buttons {
   display: flex;
   gap: 16px;
-  justify-content: center;
   flex-wrap: wrap;
 }
 
@@ -359,6 +358,7 @@ section {
   line-height: 1.8;
   color: var(--text-secondary);
   margin-bottom: 24px;
+  text-align: center;
 }
 
 /* Projects Section */
